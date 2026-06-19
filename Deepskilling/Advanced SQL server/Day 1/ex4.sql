@@ -78,3 +78,5 @@ SHOW FULL TABLES
 WHERE Table_type = 'VIEW';
 
 DROP VIEW vw_EmployeeReport;
+
+
