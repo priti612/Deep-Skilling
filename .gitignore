@@ -1,4 +1,15 @@
+<<<<<<< HEAD
 .agents/
 .vs/
 bin/
 obj/
+=======
+<<<<<<< HEAD
+.agents/
+.vs/
+bin/
+obj/
+=======
+.vs
+>>>>>>> c19e18a (Save changes in NUnit and Moq)
+>>>>>>> 52d073eebfeb321928122d7feef9c43e6f787aa4
