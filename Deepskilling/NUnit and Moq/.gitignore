@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+.agents/
+.vs/
+bin/
+obj/
+=======
+.vs
+>>>>>>> c19e18a (Save changes in NUnit and Moq)
