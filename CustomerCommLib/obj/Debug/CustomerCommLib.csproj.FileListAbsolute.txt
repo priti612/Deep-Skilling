@@ -1,0 +1,6 @@
+C:\Users\jdwom\OneDrive\Desktop\Cognizant\Deepskilling\NUnit and Moq\CustomerCommLib\bin\Debug\CustomerCommLib.dll
+C:\Users\jdwom\OneDrive\Desktop\Cognizant\Deepskilling\NUnit and Moq\CustomerCommLib\bin\Debug\CustomerCommLib.pdb
+C:\Users\jdwom\OneDrive\Desktop\Cognizant\Deepskilling\NUnit and Moq\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.AssemblyReference.cache
+C:\Users\jdwom\OneDrive\Desktop\Cognizant\Deepskilling\NUnit and Moq\CustomerCommLib\obj\Debug\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\jdwom\OneDrive\Desktop\Cognizant\Deepskilling\NUnit and Moq\CustomerCommLib\obj\Debug\CustomerCommLib.dll
+C:\Users\jdwom\OneDrive\Desktop\Cognizant\Deepskilling\NUnit and Moq\CustomerCommLib\obj\Debug\CustomerCommLib.pdb

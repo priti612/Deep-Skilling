@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\CustomerCommLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57618D36-38F0-4237-A86B-B253A4DD8BDD}|CustomerCommLib.csproj|c:\\users\\jdwom\\onedrive\\desktop\\cognizant\\deepskilling\\nunit and moq\\customercommlib\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{57618D36-38F0-4237-A86B-B253A4DD8BDD}|CustomerCommLib.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3FC6EF-4B95-4DEE-92EF-11D18FA4FEC5}|..\\PlayerManager.Tests\\PlayerManager.Tests.csproj|c:\\users\\jdwom\\onedrive\\desktop\\cognizant\\deepskilling\\nunit and moq\\playermanager.tests\\playertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07529C7F-7948-4DF1-A6E1-D50CED5DFB15}|..\\PlayersManagerLib\\PlayersManagerLib.csproj|c:\\users\\jdwom\\onedrive\\desktop\\cognizant\\deepskilling\\nunit and moq\\playersmanagerlib\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07529C7F-7948-4DF1-A6E1-D50CED5DFB15}|..\\PlayersManagerLib\\PlayersManagerLib.csproj|c:\\users\\jdwom\\onedrive\\desktop\\cognizant\\deepskilling\\nunit and moq\\playersmanagerlib\\playermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07529C7F-7948-4DF1-A6E1-D50CED5DFB15}|..\\PlayersManagerLib\\PlayersManagerLib.csproj|c:\\users\\jdwom\\onedrive\\desktop\\cognizant\\deepskilling\\nunit and moq\\playersmanagerlib\\iplayermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C4984C-D100-407A-BCC8-9E401AB207D6}|..\\DirectoryExplorer.Tests\\DirectoryExplorer.Tests.csproj|c:\\users\\jdwom\\onedrive\\desktop\\cognizant\\deepskilling\\nunit and moq\\directoryexplorer.tests\\directoryexplorer.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C4984C-D100-407A-BCC8-9E401AB207D6}|..\\DirectoryExplorer.Tests\\DirectoryExplorer.Tests.csproj|c:\\users\\jdwom\\onedrive\\desktop\\cognizant\\deepskilling\\nunit and moq\\directoryexplorer.tests\\directoryexplorertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA5E181-9AF4-4D18-B620-3355CDCE8447}|..\\MagicFilesLib\\MagicFilesLib.csproj|c:\\users\\jdwom\\onedrive\\desktop\\cognizant\\deepskilling\\nunit and moq\\magicfileslib\\directoryexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA5E181-9AF4-4D18-B620-3355CDCE8447}|..\\MagicFilesLib\\MagicFilesLib.csproj|c:\\users\\jdwom\\onedrive\\desktop\\cognizant\\deepskilling\\nunit and moq\\magicfileslib\\idirectoryexplorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C7BE01-2F84-413B-AFCF-0928E4EFEAF1}|..\\CustomerComm.Tests\\CustomerComm.Tests.csproj|c:\\users\\jdwom\\onedrive\\desktop\\cognizant\\deepskilling\\nunit and moq\\customercomm.tests\\customercommtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57618D36-38F0-4237-A86B-B253A4DD8BDD}|CustomerCommLib.csproj|c:\\users\\jdwom\\onedrive\\desktop\\cognizant\\deepskilling\\nunit and moq\\customercommlib\\customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57618D36-38F0-4237-A86B-B253A4DD8BDD}|CustomerCommLib.csproj|solutionrelative:customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57618D36-38F0-4237-A86B-B253A4DD8BDD}|CustomerCommLib.csproj|c:\\users\\jdwom\\onedrive\\desktop\\cognizant\\deepskilling\\nunit and moq\\customercommlib\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57618D36-38F0-4237-A86B-B253A4DD8BDD}|CustomerCommLib.csproj|solutionrelative:mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57618D36-38F0-4237-A86B-B253A4DD8BDD}|CustomerCommLib.csproj|c:\\users\\jdwom\\onedrive\\desktop\\cognizant\\deepskilling\\nunit and moq\\customercommlib\\imailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57618D36-38F0-4237-A86B-B253A4DD8BDD}|CustomerCommLib.csproj|solutionrelative:imailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\CustomerCommLib\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\CustomerCommLib\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-22T19:02:00.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerTests.cs",
+              "DocumentMoniker": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\PlayerManager.Tests\\PlayerTests.cs",
+              "RelativeDocumentMoniker": "..\\PlayerManager.Tests\\PlayerTests.cs",
+              "ToolTip": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\PlayerManager.Tests\\PlayerTests.cs",
+              "RelativeToolTip": "..\\PlayerManager.Tests\\PlayerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T18:57:37.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\PlayersManagerLib\\Player.cs",
+              "RelativeDocumentMoniker": "..\\PlayersManagerLib\\Player.cs",
+              "ToolTip": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\PlayersManagerLib\\Player.cs",
+              "RelativeToolTip": "..\\PlayersManagerLib\\Player.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA/wAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T18:52:52.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerMapper.cs",
+              "DocumentMoniker": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\PlayersManagerLib\\PlayerMapper.cs",
+              "RelativeDocumentMoniker": "..\\PlayersManagerLib\\PlayerMapper.cs",
+              "ToolTip": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\PlayersManagerLib\\PlayerMapper.cs",
+              "RelativeToolTip": "..\\PlayersManagerLib\\PlayerMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T18:52:17.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPlayerMapper.cs",
+              "DocumentMoniker": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\PlayersManagerLib\\IPlayerMapper.cs",
+              "RelativeDocumentMoniker": "..\\PlayersManagerLib\\IPlayerMapper.cs",
+              "ToolTip": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\PlayersManagerLib\\IPlayerMapper.cs",
+              "RelativeToolTip": "..\\PlayersManagerLib\\IPlayerMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T18:51:48.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DirectoryExplorer.Tests",
+              "DocumentMoniker": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\DirectoryExplorer.Tests\\DirectoryExplorer.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\DirectoryExplorer.Tests\\DirectoryExplorer.Tests.csproj",
+              "ToolTip": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\DirectoryExplorer.Tests\\DirectoryExplorer.Tests.csproj",
+              "RelativeToolTip": "..\\DirectoryExplorer.Tests\\DirectoryExplorer.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-22T18:42:11.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DirectoryExplorerTests.cs",
+              "DocumentMoniker": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\DirectoryExplorer.Tests\\DirectoryExplorerTests.cs",
+              "RelativeDocumentMoniker": "..\\DirectoryExplorer.Tests\\DirectoryExplorerTests.cs",
+              "ToolTip": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\DirectoryExplorer.Tests\\DirectoryExplorerTests.cs",
+              "RelativeToolTip": "..\\DirectoryExplorer.Tests\\DirectoryExplorerTests.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T18:42:23.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DirectoryExplorer.cs",
+              "DocumentMoniker": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\MagicFilesLib\\DirectoryExplorer.cs",
+              "RelativeDocumentMoniker": "..\\MagicFilesLib\\DirectoryExplorer.cs",
+              "ToolTip": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\MagicFilesLib\\DirectoryExplorer.cs",
+              "RelativeToolTip": "..\\MagicFilesLib\\DirectoryExplorer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T18:39:36.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDirectoryExplorer.cs",
+              "DocumentMoniker": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\MagicFilesLib\\IDirectoryExplorer.cs",
+              "RelativeDocumentMoniker": "..\\MagicFilesLib\\IDirectoryExplorer.cs",
+              "ToolTip": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\MagicFilesLib\\IDirectoryExplorer.cs",
+              "RelativeToolTip": "..\\MagicFilesLib\\IDirectoryExplorer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T18:39:14.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerCommTests.cs",
+              "DocumentMoniker": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\CustomerComm.Tests\\CustomerCommTests.cs",
+              "RelativeDocumentMoniker": "..\\CustomerComm.Tests\\CustomerCommTests.cs",
+              "ToolTip": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\CustomerComm.Tests\\CustomerCommTests.cs",
+              "RelativeToolTip": "..\\CustomerComm.Tests\\CustomerCommTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T18:28:22.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerComm.cs",
+              "DocumentMoniker": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\CustomerCommLib\\CustomerComm.cs",
+              "RelativeDocumentMoniker": "CustomerComm.cs",
+              "ToolTip": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\CustomerCommLib\\CustomerComm.cs",
+              "RelativeToolTip": "CustomerComm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T18:23:22.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MailSender.cs",
+              "DocumentMoniker": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\CustomerCommLib\\MailSender.cs",
+              "RelativeDocumentMoniker": "MailSender.cs",
+              "ToolTip": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\CustomerCommLib\\MailSender.cs",
+              "RelativeToolTip": "MailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T18:22:58.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IMailSender.cs",
+              "DocumentMoniker": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\CustomerCommLib\\IMailSender.cs",
+              "RelativeDocumentMoniker": "IMailSender.cs",
+              "ToolTip": "C:\\Users\\jdwom\\OneDrive\\Desktop\\Cognizant\\Deepskilling\\NUnit and Moq\\CustomerCommLib\\IMailSender.cs",
+              "RelativeToolTip": "IMailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T18:22:32.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
